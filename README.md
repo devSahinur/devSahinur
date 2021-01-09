@@ -14,12 +14,12 @@
   <a href="https://twitter.com/sahinur_info" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sahinur_info">
   </a>
+   <a href="https://twitter.com/sahinur_info" target="_blank">
+    <img src="https://img.shields.io/badge/-instagram-red?style=flat&labelColor=red&logo=twitter&logoColor=white&link=https://twitter.com/sahinur_info">
+  </a>
   <a href="https://www.behance.net/sahinurinfo" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://www.behance.net/sahinurinfo">
   <a/>
-  <a href="mailto:a.infosahinur@gmail.com?subject=Hello Dear Sahinur Islam! I send this message from your Github Profile. I need to talk to you!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.infosahinur@gmail.com">
-  </a>
   <a href="https://github.com/sahinurinfo" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sahinurinfo?label=Github&style=flat">
   </a>

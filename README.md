@@ -14,8 +14,8 @@
   <a href="https://twitter.com/sahinur_info" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sahinur_info">
   </a>
-   <a href="https://twitter.com/sahinur_info" target="_blank">
-    <img src="https://img.shields.io/badge/-instagram-red?style=flat&labelColor=red&logo=twitter&logoColor=white&link=https://twitter.com/sahinur_info">
+   <a href="https://www.instagram.com/sahinurinfo/" target="_blank">
+    <img src="https://img.shields.io/badge/-instagram-red?style=flat&labelColor=red&logo=twitter&logoColor=white&link=https://www.instagram.com/sahinurinfo/">
   </a>
   <a href="https://www.behance.net/sahinurinfo" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://www.behance.net/sahinurinfo">

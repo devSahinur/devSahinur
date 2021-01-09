@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
+<h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
+<p align="center">
 
-<!--
-**SahinurINFO/SahinurINFO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB... <br>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://facebook.com/sahinurinfo" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/sahinurinfo">
+  </a>
+  
+  <a href="https://twitter.com/sahinur_info" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sahinur_info">
+  </a>
+  <a href="https://www.behance.net/sahinurinfo" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://www.behance.net/sahinurinfo">
+  </>
+  <a href="mailto:a.infosahinur@gmail.com?subject=Hello Dear Sahinur Islam! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.infosahinur@gmail.com">
+  </a>
+  <a href="https://github.com/alnahian2003" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/sahinurinfo" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="sahinurinfo" />
+  </a>
+</p

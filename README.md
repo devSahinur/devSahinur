@@ -3,7 +3,6 @@
 </p>
 <h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
 <p align="center">
-
 ⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB... <br>
 </p>
 
@@ -21,10 +20,10 @@
   <a href="mailto:a.infosahinur@gmail.com?subject=Hello Dear Sahinur Islam! I send this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.infosahinur@gmail.com">
   </a>
-  <a href="https://github.com/alnahian2003" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
+  <a href="https://github.com/sahinurinfo" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sahinurinfo?label=Github&style=flat">
   </a>
   <a href="https://github.com/sahinurinfo" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="sahinurinfo" />
+    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="sahinurinfo" />
   </a>
 </p

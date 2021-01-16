@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
 <p align="center">
-⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB... <br>
+⚡ My Favourites: HTML, CSS, Bootstrap, JavaScript, React, NodeJS, MySQL, MongoDB... <br>
 </p>
 
 <p align="center">

@@ -17,9 +17,6 @@
    <a href="https://www.instagram.com/sahinurinfo/" target="_blank">
     <img src="https://img.shields.io/badge/-instagram-red?style=flat&labelColor=red&logo=twitter&logoColor=white&link=https://www.instagram.com/sahinurinfo/">
   </a>
-  <a href="https://www.behance.net/sahinurinfo" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://www.behance.net/sahinurinfo">
-  <a/>
   <a href="https://github.com/sahinurinfo" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sahinurinfo?label=Github&style=flat">
   </a>

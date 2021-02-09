@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img src="https://static.wixstatic.com/media/25884e_a1673c5f0fe3452798a6082d1e8282be~mv2.gif">
 </p>
 <h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
 <p align="center">

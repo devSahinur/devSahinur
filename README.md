@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" /><br/>free gifs at <a href="http://gifgifs.com/">gifgifs</a>
-<img src="https://i.ibb.co/D70Lkdj/pm.gif">
+  <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" />
 </p>
 <h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
 <p align="center">

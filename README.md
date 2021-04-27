@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">Hi there, I'm Sahinur, also known as Sahinur Islam! 👋 </h3>
 <p align="center">
+  	
+🔥 I'm a 19 Year's Old FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
 ⚡ My Favourites: HTML, CSS, Bootstrap, JavaScript, React, NodeJS, MongoDB... <br>
 </p>
 

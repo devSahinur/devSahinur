@@ -24,7 +24,7 @@
   </a>
   <a href="https://github.com/devsahinur" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="devsahinur" />
-  </a>
+  </a> 
 </p 
 <!-- This is repo start dasbord -->
 <img src="https://github-readme-stats.vercel.app/api?username=devSahinur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

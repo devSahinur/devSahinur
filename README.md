@@ -19,7 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="devsahinur" />
   </a> 
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="30"> Connect with Me
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devsahinur/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinur_dev/)

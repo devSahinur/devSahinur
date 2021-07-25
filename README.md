@@ -1,9 +1,21 @@
 ![Banner](/assets/banner.gif)
 
-<p align="center">
+<!-- welcome message -->
+<h2>Assalamu Alaikum, I am Sahinur Islam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+
+###
+
+## I am a JavaScript Lover 😍😍!
+
+- 📙 I am currently Learning at **Programming Hero!**
+- 🌱 I’m currently learning **What i Need** 
+- 🎯 2021 Goals: React Native, TypeScript, NextJS
+- ⚡ Fun Fact: I want to learn everything 🤣
+
+<!-- <p align="center"> -->
   <!-- <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" />  -->
-  <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" /> 
-</p>
+  <!-- <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" />  -->
+<!-- </p> -->
 <h3 align="center">Hey there, I'm Sahinur Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p align="center">
  🔥 I'm a 19 Year's Old FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>

@@ -12,6 +12,12 @@
 - 🎯 2021 Goals: React Native, TypeScript, NextJS
 - ⚡ Fun Fact: I want to learn everything 🤣
 
+  <a href="https://github.com/devsahinur" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/devsahinur?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/devsahinur" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="devsahinur" />
+  </a> 
 
 ## Connect with Me
 

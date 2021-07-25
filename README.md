@@ -36,7 +36,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> Languages and Tools:
+## <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="25"> Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

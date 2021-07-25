@@ -1,4 +1,4 @@
-![Banner](/assets/bg.png)
+![Banner](/assets/banner.gif)
 
 <p align="center">
   <!-- <img src="https://i.imgur.com/mZ3k4LK.gif" width=655 height=517 alt="" />  -->

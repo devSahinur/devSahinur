@@ -5,7 +5,7 @@
 
 ###
 
-## I am a JavaScript Lover 😍😍!
+## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📙 I am currently Learning at **Programming Hero!**
 - 🌱 I’m currently learning **What i Need** 

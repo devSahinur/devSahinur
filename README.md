@@ -55,9 +55,11 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=java&logoColor=white)
 
 
+<!-- This is repo start dasbord -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p>
 
 
 <!-- <p align="center"> -->

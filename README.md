@@ -19,7 +19,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/devsahinur?label=Github&style=flat">
   </a>
   <a href="https://github.com/devsahinur" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="devsahinur" />
+    <img src="https://komarev.com/ghpvc/?username=devsahinur&label=Profile%20views&color=0e75b6&style=flat" alt="devsahinur" />
   </a> 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me

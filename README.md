@@ -11,7 +11,7 @@
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want learn more about code 
 - 🌱 I’m currently learning **What i Need** 
-- 🎯 2021 Goals: React Native, TypeScript, NextJS
+- 🎯 2022 Goals: React Native, TypeScript, NextJS
 - ⚡ Fun Fact: I want to learn everything 🤣
 
 

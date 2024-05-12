@@ -75,7 +75,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devSahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sahinur Islam" /></p>
 
-
-<img align='center'  height="70" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 

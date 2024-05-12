@@ -1,12 +1,8 @@
 ![Banner](/assets/banner.gif)
 
-<!-- welcome message -->
-<h2>Assalamu Alaikum, I am Sahinur Islam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
-
-## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want learn more about code 

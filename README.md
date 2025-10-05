@@ -1,21 +1,27 @@
-<div align="center">
-  <h1>Sahinur</h1>
-  <p>Full Stack Software Engineer</p>
-  <p>📍 Dhaka, Bangladesh | 💼 Sparktech Agency</p>
+<h1 align="center">Hi, I'm Sahinur 👋</h1>
 
-  <p align="center">
-    <a href="https://sahinur.dev">🌐 Website</a> •
-    <a href="https://github.com/devsahinur">GitHub</a> •
-    <a href="https://www.linkedin.com/in/sahinur/">LinkedIn</a> •
-    <a href="https://twitter.com/devsahinur">Twitter</a> •
-    <a href="https://medium.com/@sahinur">Medium</a>
-  </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;Always+Learning+New+Technologies;Building+Scalable+Solutions&center=true&width=500&height=50">
+  </a>
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=devsahinur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/devsahinur?label=Followers&style=flat">
-  </p>
-</div>
+<p align="center">
+  📍 Dhaka, Bangladesh | 💼 Sparktech Agency
+</p>
+
+<p align="center">
+  <a href="https://sahinur.dev">🌐 Website</a> •
+  <a href="https://github.com/devsahinur">GitHub</a> •
+  <a href="https://www.linkedin.com/in/sahinur/">LinkedIn</a> •
+  <a href="https://twitter.com/devsahinur">Twitter</a> •
+  <a href="https://medium.com/@sahinur">Medium</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsahinur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devsahinur?label=Followers&style=flat">
+</p>
 
 ---
 

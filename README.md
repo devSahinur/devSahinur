@@ -9,7 +9,7 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 ## Selected work
 
 **[ForgeData](https://github.com/SahinurDEV/ForgeData)**: a zero-dependency, tree-shakable fake-data generator for TypeScript and JavaScript, built as a modern alternative to Faker.js. It ships 100+ generators across 16 modules, 9 locales, seedable output for deterministic tests, Zod-schema generation, React hooks and a CLI.<br>
-<sub>TypeScript · ESM + CJS · Vitest · [Docs](https://sahinurdev.github.io/ForgeData/) · [npm](https://www.npmjs.com/package/@sahinur/forgedata)</sub>
+<sub>TypeScript · ESM + CJS · Vitest · [Docs](https://sahinurdev.github.io/ForgeData/) · [npm](https://www.npmjs.com/package/forgedatajs)</sub>
 
 **[aws-ec2-check](https://github.com/SahinurDEV/aws-ec2-check)**: a CLI that checks EC2 instance health, status checks and metadata from the terminal, so you don't have to open the AWS Console. It has filterable instance tables, `--json` output and clear exit codes for CI, and a documented least-privilege IAM policy.<br>
 <sub>TypeScript · AWS SDK v3 · Node.js · [npm](https://www.npmjs.com/package/aws-ec2-check)</sub>

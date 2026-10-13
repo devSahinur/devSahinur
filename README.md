@@ -34,8 +34,6 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 - **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** (4.8k+ stars): stopped `outputReferences` from raising false warnings for tokens removed by a filter, by sorting the filtered set while resolving references from the full set. [#1763](https://github.com/style-dictionary/style-dictionary/pull/1763), merged.
 - **[Two.js](https://github.com/jonobr1/two.js)** (8.6k+ stars): fixed `dom.unbind` calling a nonexistent `removeEventListeners` method, so DOM event listeners are now actually removed. [#868](https://github.com/jonobr1/two.js/pull/868), merged.
 - **[Allotment](https://github.com/johnwalley/allotment)** (1.2k+ stars): fixed sash double-click calling a stale `onReset` instead of the latest callback. [#904](https://github.com/johnwalley/allotment/pull/904), merged.
-- **[commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** (650+ stars): accepted parser and writer options from conventional-changelog 7+ presets so bumping no longer breaks on those presets. [#351](https://github.com/absolute-version/commit-and-tag-version/pull/351), merged.
-- **[Security Guard](https://github.com/Syed-Bipul-Rahman/Security-Guard)** (0 stars): detected the env-decode → fetch → eval loader under any names. [#26](https://github.com/Syed-Bipul-Rahman/Security-Guard/pull/26), merged.
 
 ## Stack
 

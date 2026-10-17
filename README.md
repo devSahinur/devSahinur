@@ -28,6 +28,8 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 
 ## Open source
 
+- **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** (97k+ stars): stopped class canonicalization from collapsing exponentially when a utility sets many properties. [#20558](https://github.com/tailwindlabs/tailwindcss/pull/20558), merged.
+- **[Plate](https://github.com/udecode/plate)** (16k+ stars): made the markdown deserializer parse autolinks when used with `remark-mdx`. [#5159](https://github.com/udecode/plate/pull/5159), merged.
 - **[PapaParse](https://github.com/mholt/PapaParse)** (13k+ stars): fixed a crash in `Papa.unparse` on null or undefined single-cell rows when `skipEmptyLines` is set. [#1164](https://github.com/mholt/PapaParse/pull/1164), merged.
 - **[Tabularis](https://github.com/TabularisDB/tabularis)** (5k+ stars): made column masking and grid interaction settings persist across sessions. [#911](https://github.com/TabularisDB/tabularis/pull/911), merged.
 - **[AlaSQL](https://github.com/AlaSQL/alasql)** (7k+ stars): fixed `WITH` queries (CTEs) that read from an async source such as `CSV()`, which previously threw an uncaught error. [#2571](https://github.com/AlaSQL/alasql/pull/2571), merged.
